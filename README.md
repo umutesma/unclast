@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
+
+Welcome to my GitHub profile. This is where I spent my whole day. I am currently a CEIT student and working on software projects. I mostly enjoy developing JavaScript and Node.js as I launched my first Discord bot with Discord.js, **KlaudBot**. I also have some experience with C++, C, C#, Python, Java and currently aimed to gain more experience about Back-end and Mobile Application Developing.
 
 <!--
 **unclast/unclast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
